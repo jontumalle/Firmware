@@ -124,6 +124,7 @@ px4_add_romfs_files(
 	13008_QuadRanger
 	13009_vtol_spt_ranger
 	13010_claire
+	13011_vtol_reaper_quad+
 	13012_convergence
 	13013_deltaquad
 
